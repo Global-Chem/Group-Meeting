@@ -13,12 +13,14 @@ Monda @ 10:00 am, Room: online/discord "lecture room"
 
 | Date       | Who is Going? | Comments    |
 |------------|---------------|-------------|
-| 02/05/2024 |               |             |
+| 02/05/2024 | Anu           |             |
 | 02/12/2024 | Sul           |             | 
 | 02/19/2024 | Pei           |             |
 
 ## Present Order
 Anu, Sul, Pei, Bodun, Zainab 
+
+## Past Talks
 
 | Date       |   Talk     | Topic                                                                                               | Additional Comments  |
 |------------|------------|-----------------------------------------------------------------------------------------------------|----------------------|
