@@ -1,21 +1,23 @@
 # Suls Group-Meeting Schedule & Past Presentations
 
-**Last Updated**: 02/5/2024
-**Updated By**: Sul
+# Group Meeting Schedule
 
-**TEMP. Schedule: 01/2024-04/2024**  
-**Note**: Schedule subject to change  
-Monda @ 10:00 am, Room: online/discord "lecture room"
+**Google Calendar Link:** [Join Meeting](https://meet.google.com/biy-irfn-qzo)
 
-<br />
+**Schedule subject to change**
 
-# Schedule
+| Date       | Sul's group  | Other Companies's group | Comments      |
+|------------|--------------|-------------------------|---------------|
+| 07/01/2024 | Bodun        |                         |               |
+| 07/08/2024 | Anu          |                         |               |
+| 07/15/2024 | Pei          |                         |               |
+| 07/22/2024 | Sul          |                         |               |
+| 07/29/2024 | Josh         |                         |               |
+| 08/05/2024 | David        |                         |               |
+| 08/12/2024 | Caleb        |                         |               |
+| 08/19/2024 | Bodun        |                         |               |
 
-| Date       | Who is Going? | Comments    |
-|------------|---------------|-------------|
-| 02/05/2024 | Anu           |             |
-| 02/12/2024 | Sul           |             | 
-| 02/19/2024 | Pei           |             |
+**Present Order:** Bodun, Anu, Pei, Sul, Josh, David, Caleb, Bodun
 
 ## Present Order
 Anu, Sul, Pei, Bodun, Zainab 
@@ -24,4 +26,5 @@ Anu, Sul, Pei, Bodun, Zainab
 
 | Date       |   Talk     | Topic                                                                                               | Additional Comments  |
 |------------|------------|-----------------------------------------------------------------------------------------------------|----------------------|
-| 02/05/2024 | Anu        | Using Alphafold in the Generation of Anti-Venom Snakes                                              |                      |
+| 06/24/2024 | Sul        | Molecular Shape Diversity of Combinatorial Libraries: A Prerequisite for Broad Bioactivity          |                      |
+| 07/01/2024 | Bodun      | Attention is All you Need                                                                           |                      |
