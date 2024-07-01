@@ -24,7 +24,7 @@ Anu, Sul, Pei, Bodun, Zainab
 
 ## Past Talks
 
-| Date       |   Talk     | Topic                                                                                               | Additional Comments  |
-|------------|------------|-----------------------------------------------------------------------------------------------------|----------------------|
-| 06/24/2024 | Sul        | Molecular Shape Diversity of Combinatorial Libraries: A Prerequisite for Broad Bioactivity          |                      |
-| 07/01/2024 | Bodun      | Attention is All you Need                                                                           |                      |
+| Date       |   Talk     | Topic                                                                                                 | Additional Comments  |
+|------------|------------|-----------------------------------------------------------------------------------------------------  |----------------------|
+| 06/24/2024 | Sul        | Molecular Shape Diversity of Combinatorial Libraries: A Prerequisite for Broad Bioactivity            |                      |
+| 07/01/2024 | Bodun      |IN-SILICO-BASED LEAD OPTIMIZATION OF HIT COMPOUNDS TARGETING MITOTIC KINESIN EG5 FOR CANCER MANAGEMENT  |                      |
