@@ -18,7 +18,7 @@ Anu, Sul, Pei, Bodun, Zainab
 | 07/01/2024 | Bodun      | In-silico based lead optimization of hit compounds targteting mitotic kinesin EG5 for cancer management|                      |
 | 07/15/2024 | Anu        | Introduction to A.I powered solutions for Gemstone Industry Challenges                                 |                      |
 | 07/22/2024 | Sul        | Bespoke library docking for 5-HT2A receptor agonists with antidepressant activity                      |                      |
-| 07/29/2024 | Pei        |                                                                                                        |                      |
+| 07/29/2024 | Pei        | New Psychoactive Substances in EU Markets and AI models                                                |                      |
 | 08/06/2024 | Yuquin     |                                                                                                        |                      |
 
  
