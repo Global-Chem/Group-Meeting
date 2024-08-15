@@ -19,6 +19,8 @@ Anu, Sul, Pei, Bodun, Zainab
 | 07/15/2024 | Anu        | Introduction to A.I powered solutions for Gemstone Industry Challenges                                 |                      |
 | 07/22/2024 | Sul        | Bespoke library docking for 5-HT2A receptor agonists with antidepressant activity                      |                      |
 | 07/29/2024 | Pei        | New Psychoactive Substances in EU Markets and AI models                                                |                      |
-| 08/06/2024 | Yuquin     |                                                                                                        |                      |
+| 08/06/2024 | Yuquin     | Rings in Drugs                                                                                         |                      |
+| 08/13/2024 | Sul        | Synhesis of Codeine, Morphine                                                                          |                      |
+| 08/20/2024 | Bodun      |                                                                                                        |                      |
 
  
