@@ -21,9 +21,9 @@ Anu, Sul, Pei, Bodun
 | 07/29/2024 | Pei        | New Psychoactive Substances in EU Markets and AI models                                                |                      |
 | 08/06/2024 | Yuquin     | Rings in Drugs                                                                                         |                      |
 | 08/13/2024 | Sul        | Synhesis of Codeine, Morphine                                                                          |                      |
-| 08/20/2024 | Bodun      |                                                                                                        |                      |
-| 08/27/2024 | Bodun      |                                                                                                        |                      |
-| 08/02/2024 | Sul        |                                                                                                        |                      |
+| 08/20/2024 | Bodun      | Transformer Models and Chemical Emeddings                                                              |                      |
+| 08/27/2024 | Sul        |                                                                                                        |                      |
+| 08/02/2024 | Sul        | Holiday!!                                                                                              |                      |
 | 08/09/2024 | Sul        | History of Cannabis and Delta 8 THC                                                                    |                      |
 
  
