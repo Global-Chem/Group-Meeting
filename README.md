@@ -8,7 +8,7 @@
 **Present Order:** Bodun, Anu, Pei, Sul, Josh, David, Caleb, Bodun
 
 ## Present Order
-Anu, Sul, Pei, Bodun, Zainab 
+Anu, Sul, Pei, Bodun 
 
 ## Past Talks
 
@@ -22,5 +22,8 @@ Anu, Sul, Pei, Bodun, Zainab
 | 08/06/2024 | Yuquin     | Rings in Drugs                                                                                         |                      |
 | 08/13/2024 | Sul        | Synhesis of Codeine, Morphine                                                                          |                      |
 | 08/20/2024 | Bodun      |                                                                                                        |                      |
+| 08/27/2024 | Bodun      |                                                                                                        |                      |
+| 08/02/2024 | Sul        |                                                                                                        |                      |
+| 08/09/2024 | Sul        | History of Cannabis and Delta 8 THC                                                                    |                      |
 
  
