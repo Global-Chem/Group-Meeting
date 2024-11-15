@@ -27,3 +27,4 @@ Anu, Sul, Pei, Bodun
 | 08/09/2024 | Sul        | History of Cannabis and Delta 8 THC                                                                    |                      |
 | 01/11/2024 | David      | Chemical Constitutions of Kanna                                                                        |                      |
 | 08/11/2024 | Anu        | Importance of St.Jhones Wort                                                                           |                      | 
+| 15/11/2024 | David      | Importance of DMT                                                                                      |                      |
