@@ -2,13 +2,7 @@
 
 # Group Meeting Schedule
 
-**Google Calendar Link:** [Join Meeting](https://meet.google.com/biy-irfn-qzo)
-
-
-**Present Order:** Bodun, Anu, Pei, Sul, Josh, David, Caleb, Bodun
-
-## Present Order
-Anu, Sul, Pei, Bodun 
+**Google Calendar Link:** [Join Meeting](https://meet.google.com/biy-irfn-qzo) 
 
 ## Past Talks
 
@@ -28,3 +22,4 @@ Anu, Sul, Pei, Bodun
 | 01/11/2024 | David      | Chemical Constitutions of Kanna                                                                        |                      |
 | 08/11/2024 | Anu        | Importance of St.Jhones Wort                                                                           |                      | 
 | 15/11/2024 | David      | Importance of DMT                                                                                      |                      |
+| 23/11/2024 | Bodun      | AI in life Science                                                                                     |                      |
