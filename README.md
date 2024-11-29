@@ -23,3 +23,4 @@
 | 08/11/2024 | Anu        | Importance of St.Jhones Wort                                                                           |                      | 
 | 15/11/2024 | David      | Importance of DMT                                                                                      |                      |
 | 23/11/2024 | Bodun      | AI in life Science                                                                                     |                      |
+| 29/11/2024 | Anu        | Andrographolide and its effect on biological activities                                                |                      |
