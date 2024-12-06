@@ -24,3 +24,4 @@
 | 15/11/2024 | David      | Importance of DMT                                                                                      |                      |
 | 23/11/2024 | Bodun      | AI in life Science                                                                                     |                      |
 | 29/11/2024 | Anu        | Andrographolide and its effect on biological activities                                                |                      |
+| 06/12/2024 | Shakeer    | Cardiotoxicity Molecules                                                                               |                      |
